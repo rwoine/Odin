@@ -1,4 +1,4 @@
-package be.rwbb.odin.rest.output;
+package be.woine.odin.rest.output;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package be.rwbb.odin;
+package be.woine.odin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

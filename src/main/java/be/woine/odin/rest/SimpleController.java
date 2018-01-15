@@ -1,6 +1,6 @@
-package be.rwbb.odin.rest;
+package be.woine.odin.rest;
 
-import be.rwbb.odin.rest.output.TestOutput;
+import be.woine.odin.rest.output.TestOutput;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
